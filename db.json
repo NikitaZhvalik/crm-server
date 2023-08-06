@@ -1,0 +1,31 @@
+{
+  "applications": [
+    {
+      "id": 1,
+      "data": "25.02.23",
+      "name": "Никита Жвалик",
+      "email": "Nikita@mail.ru",
+      "phone": "+875422",
+      "status": "new",
+      "product": "course-html"
+    },
+    {
+        "id": 2,
+        "data": "06.06.23",
+        "name": "Вася Пупкин",
+        "email": "Vasya@mail.ru",
+        "phone": "+94328",
+        "status": "new",
+        "product": "course-vue"
+    },
+    {
+        "id": 3,
+        "data": "11.04.23",
+        "name": "Иван Иванов",
+        "email": "Nikita@mail.ru",
+        "phone": "+8452098",
+        "status": "new",
+        "product": "course-js"
+    }
+  ]
+}
